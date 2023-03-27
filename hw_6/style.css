@@ -1,0 +1,92 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background:#e6e4e2;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0 25px 0;
+}
+
+form {
+  margin: 0 auto;
+  width: 450px;
+  height: 500px;
+}
+
+.form {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.items {
+  height: 20px;
+  width: 250px;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gender {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gender_line {
+  display: inline;
+  margin-right: 38px;
+}
+
+.age {
+  display: inline;
+  margin-right: 166px;
+}
+
+#age {
+  height: 20px;
+  width: 100px;
+}
+
+.course {
+  display: inline;
+  margin-right: 154px;
+}
+
+.choice {
+  height: 25px;
+  width: 150px;
+}
+
+.address {
+  display: inline;
+  margin-right: 83px;
+}
+
+.text {
+  font-size: 14px;
+  text-align: center;
+}
+
+.item_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 16px;
+  width: 160px;
+  height: 40px;
+  background: #ffffff;
+  border-radius: 20px;
+  margin: 10px
+}
