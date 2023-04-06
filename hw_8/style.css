@@ -1,0 +1,152 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+footer {
+  height: 349px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.subscribe {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.logo_icon {
+  margin: 70.03px 11.94px 0 0;
+}
+
+.logo_name {
+  margin: 72.93px 0 0 0;
+}
+
+h2 {
+  font-family: 'Gotham';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #2F281E;
+  margin-top: 70px;
+  margin-bottom: 25px;
+}
+
+li {
+  margin-bottom: 15px; 
+}
+
+ul {
+  padding-top: 10px;
+}
+
+a {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-decoration: none;
+  color: #544837;
+}
+
+.btn {
+width: 180px;
+height: 50px;
+border: 1px solid #FF9900;
+border-radius: 4px;
+background: #FF9900;
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+input {
+  margin-bottom: 25px;
+  max-width: 340px;
+  padding: 15px 118px 15px 10px;
+  border: 1px solid #BCD0E5;
+  border-radius: 4px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  color: #BCD0E5;
+}
+
+.blocks {
+  display: flex;
+  gap: 40px;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  color: #2F281E;
+  margin-top: 99px;
+  margin-bottom: 50px;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #2F281E;
+  margin-top: 30px;
+  margin-bottom: 16px;
+}
+
+p {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #544837;
+}
+
+.item {
+  width: 270px;
+}
+
+.btn-1 {
+  width: 180px;
+  height: 50px;
+  border: 1px solid #FF9900;
+  border-radius: 4px;
+  background: #FF9900;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  }
+
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px 0 74px 0;
+  }
+  
